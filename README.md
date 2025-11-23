@@ -10,8 +10,11 @@ Incremental Object Detection **(IOD)** enables detectors to continually learn ne
 
 ### 📚 Papers (by year)
 
-| **Title**                             | **Venue** | **Code** | **Notes**             |
-| ------------------------------------- | --------- | -------- | --------------------- |
-| Incremental Learning Object Detection | CVPR      | 🔗        | Distillation          |
-| ILOD++                                | TPAMI     | 🔗        | Replay + distillation |
-| LDET                                  | ECCV      | 🔗        | Transformer-based     |
+### 2026
+
+| **Title**                                                | **Venue** | **Code**                                     | Paper | **Notes**             |
+| -------------------------------------------------------- | --------- | -------------------------------------------- | ----- | --------------------- |
+| YOLO-IOD: Towards Real Time Incremental Object Detection | AAAI 2026 | [🔗](https://github.com/qiangzai-lv/YOLO-IOD) | 🔗     | Distillation          |
+|                                                          | TPAMI     | 🔗                                            | 🔗     | Replay + distillation |
+| LDET                                                     | ECCV      | 🔗                                            | 🔗     | Transformer-based     |
+

@@ -19,9 +19,9 @@ Incremental Object Detection **(IOD)** enables detectors to continually learn ne
 
 ### 2025
 
-| **Title**                                                | **Venue** | **Code**                                     | Paper | **Notes**             |
-| -------------------------------------------------------- | --------- | -------------------------------------------- | ----- | --------------------- |
-| YOLO-IOD: Towards Real Time Incremental Object Detection | AAAI 2026 | [🔗](https://github.com/qiangzai-lv/YOLO-IOD) | 🔗     | Distillation          |
-|                                                          | TPAMI     | 🔗                                            | 🔗     | Replay + distillation |
-| LDET                                                     | ECCV      | 🔗                                            | 🔗     | Transformer-based     |
+| **Title**                                                    | **Venue** | **Code**                                     | Paper | **Notes** |
+| ------------------------------------------------------------ | --------- | -------------------------------------------- | ----- | --------- |
+| [Gradient Decomposition and Alignment for Incremental Object Detection](https://openaccess.thecvf.com/content/ICCV2025/html/Luo_Gradient_Decomposition_and_Alignment_for_Incremental_Object_Detection_ICCV_2025_paper.html) | AAAI 2026 | [🔗](https://github.com/qiangzai-lv/YOLO-IOD) | 🔗     |           |
+|                                                              | TPAMI     | 🔗                                            | 🔗     |           |
+| LDET                                                         | ECCV      | 🔗                                            | 🔗     |           |
 

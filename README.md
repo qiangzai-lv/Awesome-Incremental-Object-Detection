@@ -32,3 +32,4 @@ Incremental Object Detection **(IOD)** enables detectors to continually learn ne
 | Learning Endogenous Attention for Incremental Object Detection | [CVPR 2025](https://cvpr.thecvf.com/virtual/2025/poster/35014) | [🔗](https://github.com/SONGX1997/LEA)       |           |
 | DCA: Dividing and Conquering Amnesia in Incremental Object Detection | [AAAI 2025](https://arxiv.org/abs/2503.15295)                | 🔗                                           |           |
 | GCD: Advancing Vision-Language Models for Incremental Object Detection via Global Alignment and Correspondence Distillation | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/download/32864/35019) | [🔗](ttps://github.com/Never-wx/GCD)         |           |
+| Diffuse&Refine: Intrinsic Knowledge Generation and Aggregation for Incremental Object Detection | [IJCAI 2025](https://www.ijcai.org/proceedings/2025/700) | [🔗]()         |           |
